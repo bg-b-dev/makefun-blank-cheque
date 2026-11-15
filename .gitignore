@@ -1,0 +1,5 @@
+wallet.json
+out/
+transcripts.tar.gz
+node_modules/
+.DS_Store

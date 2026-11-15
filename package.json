@@ -1,0 +1,12 @@
+{
+  "name": "makefun-coin-promo-01-entry-2",
+  "version": "1.0.0",
+  "description": "Blank Cheque ($BLANK): a coin for the make.fun bounty makefun-coin-promo-01",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "@solana/web3.js": "^1.98.0"
+  },
+  "private": true
+}
