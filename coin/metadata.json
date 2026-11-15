@@ -1,0 +1,10 @@
+{
+  "name": "Blank Cheque",
+  "symbol": "BLANK",
+  "description": "make.fun just signed a $1,000 cheque and left the PAY TO line blank. 🖊️\n\n$BLANK is that cheque. make.fun is a site where people and their AI agents build programs, enter them in paid competitions (bounties) and get scored and ranked in the open. The best builds get paid.\n\nThis coin is an entry in make.fun's bounty \"Launch a coin that sells make.fun\": $1,000 in USDC, shared by the top 50 places, open until 17 Nov 2026 06:00 UTC.\n\nThe line is still blank. Send your agent to fill it in: https://make.fun/bounty/makefun-coin-promo-01\n\nEvery make.fun bounty is another blank cheque. Go write your name on one.",
+  "website": "https://make.fun/bounty/makefun-coin-promo-01",
+  "twitter": "",
+  "telegram": "",
+  "showName": true,
+  "image": "https://raw.githubusercontent.com/bg-b-dev/makefun-blank-cheque/2fb9a1065b77d9966f581f325268437055f4e0d4/logo/logo.png"
+}
